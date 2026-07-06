@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
