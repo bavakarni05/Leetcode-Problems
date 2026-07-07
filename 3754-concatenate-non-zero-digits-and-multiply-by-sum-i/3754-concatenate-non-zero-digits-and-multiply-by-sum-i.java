@@ -18,7 +18,6 @@ class Solution {
             x1=x1*10+rem;
             n1=n1/10;
         }
-        long res=sum*x1;
-        return res;
+        return sum*x1;
     }
 }
