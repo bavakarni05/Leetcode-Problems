@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
