@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0219-contains-duplicate-ii](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0219-contains-duplicate-ii](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0292-nim-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
