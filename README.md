@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0227-basic-calculator-ii](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0292-nim-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bavakarni05/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bavakarni05/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
