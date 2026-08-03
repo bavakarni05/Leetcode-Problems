@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bavakarni05/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Number Theory
 |  |
