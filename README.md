@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [3945-digit-frequency-score](https://github.com/bavakarni05/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/bavakarni05/Leetcode-Problems/tree/master/0292-nim-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bavakarni05/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bavakarni05/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3945-digit-frequency-score](https://github.com/bavakarni05/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Brainteaser
 |  |
 | ------- |
